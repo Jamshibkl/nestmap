@@ -43,8 +43,3 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## Acknowledgments
 Inspired by the need for an efficient accommodation search tool in urban areas.
 Special thanks to the developers and contributors of the technologies used in this project.
-
-### Notes:
-- Make sure to replace `yourusername` in the clone link with your actual GitHub username.
-- You can modify the content to include any additional features or information that are specific to your implementation.
-- Don’t forget to create a `LICENSE` file if you decide to include licensing information.
